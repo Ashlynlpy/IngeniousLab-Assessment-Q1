@@ -16,10 +16,10 @@ Given a list(rows) of String array(columns). Write a function to find out the ma
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository using below command.
    ```sh
    git clone https://github.com/Ashlynlpy/IngeniousLab-Assessment-Q1.git
-2. Open the project in Eclipse IDE and run the main method in MainApplication.class. 
+2. Open the project in Eclipse IDE and run the main method in `MainApplication.class`. 
 
 
 <!-- USAGE EXAMPLES -->
@@ -27,4 +27,4 @@ Given a list(rows) of String array(columns). Write a function to find out the ma
 
 To test the functionality of the solution created, you can change the input by adding rows and colums. 
 
-Note: Assumming the input list of String array might have different size of columns and rows. For example: [["abc", "ab"], ["ab"]] is applicable to the solution. The maximum column length for the list can be manipulated as a result.
+Note: Assumming the input list of String array might have different size of columns and rows. For example: `[["abc", "ab"], ["ab"]]` is applicable to the solution. The maximum column length for the list can be manipulated as a result.
